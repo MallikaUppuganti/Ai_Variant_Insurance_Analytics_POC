@@ -1,4 +1,4 @@
-# 🛡️ Insurance Analytics (Proof of Concept)
+# 🛡️ Insurance Analytics
 ### Company: Ai Variant | Domain: Financial Services
 
 ## 📌 Project Overview
