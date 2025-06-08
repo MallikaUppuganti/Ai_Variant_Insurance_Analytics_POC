@@ -1,5 +1,7 @@
 # 🛡️ Insurance Analytics
-### Company: Ai Variant | Domain: Financial Services
+### Company: Ai Variant 
+### Tools Used: Excel, Power BI, MySQL, Tableau
+### Domain: Financial Services
 
 ## 📌 Project Overview
 This project is a Proof of Concept (PoC) developed for a major client in the Insurance sector, designed to provide strategic visibility into revenue performance, sales opportunities and executive engagement.
