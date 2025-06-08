@@ -57,12 +57,20 @@ Built using Excel and Power BI, the dashboards help business leaders track KPIs,
 While I independently built the Excel and Power BI dashboards, cross-platform validation and layout benchmarking in Tableau were handled by my teammate, and I contributed by aligning the metrics and visual logic across tools to ensure consistency.
 
 ## ✅ Outcomes & Value Delivered
-* Delivered a high-impact dashboards used in executive review meetings
+* Delivered a high-impact dashboards used in **executive review meetings**
 
-* Identified significant variance in invoice contributions (e.g., 61 by one executive)
+* Identified a **61-invoice anomaly** by a single account exec, prompting audit review
 
-* Highlighted pipeline leakages, contributing to a 12% uplift in conversion strategy
+* Highlighted **pipeline leakages**, contributing to a 12% uplift in conversion strategy
 
 * Strengthened client trust in the analytics team, advancing more project discussions
 
+## ✨ Why This Project Stands Out
 
+* Real-world business case for **sales pipeline analytics in insurance**
+
+* Demonstrates ability to **combine SQL, Excel and BI tools** in one workflow
+
+* Shows end-to-end capability from raw data to stakeholder-ready dashboard
+
+* Highlights **domain knowledge, data storytelling** and **business alignment**
